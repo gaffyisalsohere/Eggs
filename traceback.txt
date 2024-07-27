@@ -1,14 +1,14 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While running game code:
-  File "game/script.rpy", line 254, in script
+Executing ATL code at game/script.rpy:52
+  File "game/script.rpy", line 271, in script
     e "Line 1"
-TypeError: must be real number, not ATLTransform
+TypeError: cannot unpack non-iterable float object
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 254, in script
+  File "game/script.rpy", line 271, in script
     e "Line 1"
   File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ast.py", line 2560, in execute
     Say.execute(self)
@@ -44,32 +44,21 @@ Full traceback:
     surf = render(child, width, height, cst, cat)
   File "render.pyx", line 170, in renpy.display.render.render
   File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/screen.py", line 754, in render
-    child = renpy.display.render.render(self.child, w, h, st, at)
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/layout.py", line 900, in render
-    surf = render(child, width, height, cst, cat)
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/layout.py", line 1361, in render
-    surf = render(child,
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/behavior.py", line 968, in render
-    rv = super(Button, self).render(width, height, st, at)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/layout.py", line 1361, in render
-    surf = render(child,
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/text/text.py", line 2276, in render
-    virtual_layout = Layout(self, width, height, renders, drawable_res=False, size_only=True)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/text/text.py", line 785, in __init__
-    textsupport.align_and_justify(lines, maxx, style.text_align, style.justify)
-  File "textsupport.pyx", line 1022, in renpy.text.textsupport.align_and_justify
-TypeError: must be real number, not ATLTransform
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/transform.py", line 955, in render
+    self.update_state()
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/transform.py", line 1134, in update_state
+    fr = self.execute(self, self.st, self.at)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/atl.py", line 746, in execute
+    action, arg, pause = block.execute(trans, timebase, self.atl_state, events)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/atl.py", line 991, in execute
+    action, arg, pause = stmt.execute(trans, target - start, child_state, events)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/atl.py", line 1434, in execute
+    setattr(newts, k, v)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/transform.py", line 468, in set_anchor
+    self.xanchor, self.yanchor = value
+TypeError: cannot unpack non-iterable float object
 
 Linux-5.15.0-117-generic-x86_64-with-glibc2.35 x86_64
 Ren'Py 8.2.3.24061702
 TESTimony 1.0
-Sat Jul 27 14:33:27 2024
+Sat Jul 27 15:41:06 2024

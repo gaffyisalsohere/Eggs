@@ -48,29 +48,29 @@ label start:
         xalign 0.80
 
     show fg gear as geartl:
-        xalign 0.19
-        yalign -0.075
+        xpos 0.1725
+        ypos -0.05
         rotate 0
         linear 1.0 rotate 360
         repeat
 
     show fg gear as geartr:
-        xalign 0.81
-        yalign -0.075
+        xpos 0.7375
+        ypos -0.05
         rotate 0
         linear 1.0 rotate -360
         repeat
 
     show fg gear as gearbl:
-        xalign 0.19
-        yalign 0.8325
+        xpos 0.1725
+        ypos 0.685
         rotate 0
         linear 1.0 rotate -360
         repeat
 
     show fg gear as gearbr:
-        xalign 0.81
-        yalign 0.8325
+        xpos 0.7375
+        ypos 0.685
         rotate 0
         linear 1.0 rotate 360
         repeat

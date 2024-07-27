@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/screens.rpy", line 298: expected statement.
-    asddaf
-          ^
+File "game/script.rpy", line 59: expecting name after dot.
+    ypos -0.0.85
+              ^
 
 Ren'Py Version: Ren'Py 8.2.3.24061702
-Sat Jul 27 15:07:55 2024
+Sat Jul 27 15:47:23 2024
