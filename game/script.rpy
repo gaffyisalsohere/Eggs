@@ -28,7 +28,7 @@ label start:
 
     show yanshu test as courtleft:
        
-        xalign 0.05
+        xalign 0
         yalign 0.67
 
     show yanshu test as courtmid:
@@ -38,38 +38,38 @@ label start:
 
     show yanshu test as courtright:
 
-        xalign 0.95
+        xalign 1.0
         yalign 0.67
 
     show fg bar as barleft:
-        xalign 0.30
+        xalign 0.20
 
     show fg bar as barrightt:
-        xalign 0.70
+        xalign 0.80
 
     show fg gear as geartl:
-        xalign 0.2925
+        xalign 0.19
         yalign -0.075
         rotate 0
         linear 1.0 rotate 360
         repeat
 
     show fg gear as geartr:
-        xalign 0.7075
+        xalign 0.81
         yalign -0.075
         rotate 0
         linear 1.0 rotate -360
         repeat
 
     show fg gear as gearbl:
-        xalign 0.2925
+        xalign 0.19
         yalign 0.8325
         rotate 0
         linear 1.0 rotate -360
         repeat
 
     show fg gear as gearbr:
-        xalign 0.7075
+        xalign 0.81
         yalign 0.8325
         rotate 0
         linear 1.0 rotate 360
