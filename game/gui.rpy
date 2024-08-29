@@ -169,6 +169,12 @@ define gui.button_text_hover_color = gui.hover_color
 define gui.button_text_selected_color = gui.selected_color
 define gui.button_text_insensitive_color = gui.insensitive_color
 
+## Image BG Buttons (custom!)
+define gui.imgbutton_text_idle_color = "#000000"
+define gui.imgbutton_text_hover_color = "#000000"
+define gui.imgbutton_text_selected_color = "#000000"
+define gui.imgbutton_text_insensitive_color = "#000000"
+
 ## The horizontal alignment of the button text. (0.0 is left, 0.5 is center, 1.0
 ## is right).
 define gui.button_text_xalign = 0.0

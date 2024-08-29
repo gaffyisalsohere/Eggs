@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 59: expecting name after dot.
-    ypos -0.0.85
-              ^
+File "game/script.rpy", line 146: 'zfixed' is not a keyword argument or valid child of the screen statement.
+    zfixed:
+          ^
 
-Ren'Py Version: Ren'Py 8.2.3.24061702
-Sat Jul 27 15:47:23 2024
+Ren'Py Version: Ren'Py 8.3.0.24082114
+Thu Aug 29 12:37:32 2024

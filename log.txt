@@ -1,13 +1,61 @@
-2024-07-27 19:16:51 UTC
-Linux-5.15.0-117-generic-x86_64-with-glibc2.35
-Ren'Py 8.2.3.24061702
+2024-08-29 15:40:52 UTC
+Linux-5.15.0-119-generic-x86_64-with-glibc2.35
+Ren'Py 8.3.0.24082114
 
-Early init took 0.05s
-Loading error handling took 0.04s
-Loading script took 0.22s
+Early init took 0.08s
+Loading error handling took 0.05s
+Loading script took 0.27s
 Loading save slot metadata took 0.03s
 Loading persistent took 0.00s
-Running init code took 0.04s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.15s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(526, 296) drawable=(526, 296)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 242.36s
+Loading error handling took 0.04s
+Loading script took 0.12s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
 Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.02s
@@ -15,20 +63,20 @@ Index archives took 0.00s
 Dump and make backups took 0.05s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.04s
+Initial gc took 0.07s
 DPI scale factor: 1.000000
-Creating interface object took 0.00s
+Creating interface object took 0.01s
 Cleaning stores took 0.00s
-Init translation took 0.04s
+Init translation took 0.05s
 Build styles took 0.00s
-Load screen analysis took 0.03s
+Load screen analysis took 0.04s
 Analyze screens took 0.00s
 Save screen analysis took 0.00s
-Prepare screens took 0.07s
+Prepare screens took 0.09s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
+Save bytecode. took 0.00s
 Running _start took 0.00s
-Interface start took 0.14s
+Interface start took 0.08s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
@@ -41,9 +89,48 @@ Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 201.41s
+Early init took 275.57s
 Loading error handling took 0.04s
-Loading script took 0.22s
+Loading script took 0.09s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1077.93s
+Loading error handling took 0.04s
+Loading script took 0.15s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
 Running init code took 0.03s
@@ -52,7 +139,7 @@ Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.02s
 Index archives took 0.00s
 Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
+Dump and make backups took 0.06s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.07s
@@ -63,7 +150,7 @@ Init translation took 0.06s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
-Save screen analysis took 0.03s
+Save screen analysis took 0.02s
 Prepare screens took 0.09s
 Save pyanalysis. took 0.02s
 Save bytecode. took 0.02s
@@ -80,10 +167,712 @@ Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
 Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
 Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 289, in script
+    e "Line 1"
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ast.py", line 2572, in execute
+    Say.execute(self)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ast.py", line 615, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/exports/sayexports.py", line 132, in say
+    who(what, *args, **kwargs)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/character.py", line 1451, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/character.py", line 1102, in do_display
+    display_say(who,
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/character.py", line 799, in display_say
+    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/core.py", line 2188, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/core.py", line 2705, in interact_core
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/screen.py", line 480, in visit_all
+    callback(self)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/core.py", line 2705, in <lambda>
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/screen.py", line 491, in per_interact
+    self.update()
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/screen.py", line 697, in update
+    self.screen.function(**self.scope)
+  File "game/script.rpy", line 106, in execute
+    screen buttonLeft():
+  File "game/script.rpy", line 106, in execute
+    screen buttonLeft():
+  File "game/script.rpy", line 108, in execute
+    frame:
+  File "game/script.rpy", line 110, in execute
+    imagebutton auto "button_arrow_left.png" action Jump(logicleft)
+  File "game/script.rpy", line 110, in keywords
+    imagebutton auto "button_arrow_left.png" action Jump(logicleft)
+  File "game/script.rpy", line 110, in <module>
+    imagebutton auto "button_arrow_left.png" action Jump(logicleft)
+NameError: name 'logicleft' is not defined
+
+While running game code:
+  File "game/script.rpy", line 289, in script
+    e "Line 1"
+  File "game/script.rpy", line 106, in execute
+    screen buttonLeft():
+  File "game/script.rpy", line 106, in execute
+    screen buttonLeft():
+  File "game/script.rpy", line 108, in execute
+    frame:
+  File "game/script.rpy", line 110, in execute
+    imagebutton auto "button_arrow_left.png" action Jump(logicleft)
+  File "game/script.rpy", line 110, in keywords
+    imagebutton auto "button_arrow_left.png" action Jump(logicleft)
+  File "game/script.rpy", line 110, in <module>
+    imagebutton auto "button_arrow_left.png" action Jump(logicleft)
+NameError: name 'logicleft' is not defined
 Resetting cache.
-Early init took 225.51s
+Early init took 1350.36s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 289, in script
+    e "Line 1"
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ast.py", line 2572, in execute
+    Say.execute(self)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ast.py", line 615, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/exports/sayexports.py", line 132, in say
+    who(what, *args, **kwargs)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/character.py", line 1451, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/character.py", line 1102, in do_display
+    display_say(who,
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/character.py", line 799, in display_say
+    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/core.py", line 2188, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/core.py", line 2705, in interact_core
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/screen.py", line 480, in visit_all
+    callback(self)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/core.py", line 2705, in <lambda>
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/screen.py", line 491, in per_interact
+    self.update()
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/screen.py", line 697, in update
+    self.screen.function(**self.scope)
+  File "game/script.rpy", line 106, in execute
+    screen buttonLeft():
+  File "game/script.rpy", line 106, in execute
+    screen buttonLeft():
+  File "game/script.rpy", line 108, in execute
+    frame:
+  File "game/script.rpy", line 110, in execute
+    imagebutton auto "button_arrow_left.png" action Jump(logicleft)
+  File "game/script.rpy", line 110, in keywords
+    imagebutton auto "button_arrow_left.png" action Jump(logicleft)
+  File "game/script.rpy", line 110, in <module>
+    imagebutton auto "button_arrow_left.png" action Jump(logicleft)
+NameError: name 'logicleft' is not defined
+
+While running game code:
+  File "game/script.rpy", line 289, in script
+    e "Line 1"
+  File "game/script.rpy", line 106, in execute
+    screen buttonLeft():
+  File "game/script.rpy", line 106, in execute
+    screen buttonLeft():
+  File "game/script.rpy", line 108, in execute
+    frame:
+  File "game/script.rpy", line 110, in execute
+    imagebutton auto "button_arrow_left.png" action Jump(logicleft)
+  File "game/script.rpy", line 110, in keywords
+    imagebutton auto "button_arrow_left.png" action Jump(logicleft)
+  File "game/script.rpy", line 110, in <module>
+    imagebutton auto "button_arrow_left.png" action Jump(logicleft)
+NameError: name 'logicleft' is not defined
+Resetting cache.
+Early init took 1370.49s
 Loading error handling took 0.03s
 Loading script took 0.11s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 290, in script
+    e "Line 1"
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ast.py", line 2572, in execute
+    Say.execute(self)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ast.py", line 615, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/exports/sayexports.py", line 132, in say
+    who(what, *args, **kwargs)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/character.py", line 1451, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/character.py", line 1102, in do_display
+    display_say(who,
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/character.py", line 799, in display_say
+    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/core.py", line 2188, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/core.py", line 2705, in interact_core
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/screen.py", line 485, in visit_all
+    self.child.visit_all(callback, seen=None)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 424, in visit_all
+    for d in self.visit():
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/image.py", line 540, in visit
+    self.find_target()
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/image.py", line 421, in find_target
+    self.target = target._duplicate(a)
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 249, in _duplicate
+    args.extraneous()
+  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/displayable.py", line 109, in extraneous
+    raise Exception("Image '{}' does not accept attributes '{}'.".format(
+Exception: Image 'button' does not accept attributes 'left idle'.
+
+While running game code:
+  File "game/script.rpy", line 290, in script
+    e "Line 1"
+Exception: Image 'button' does not accept attributes 'left idle'.
+Resetting cache.
+Early init took 1407.22s
+Loading error handling took 0.03s
+Loading script took 0.13s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1421.06s
+Loading error handling took 0.03s
+Loading script took 0.14s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1437.89s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1576.48s
+Loading error handling took 0.02s
+Loading script took 0.12s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1728.57s
+Loading error handling took 0.03s
+Loading script took 0.15s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1745.37s
+Loading error handling took 0.02s
+Loading script took 0.11s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1759.17s
+Loading error handling took 0.02s
+Loading script took 0.10s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1765.48s
+Loading error handling took 0.03s
+Loading script took 0.15s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1788.26s
+Loading error handling took 0.02s
+Loading script took 0.11s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1797.52s
+Loading error handling took 0.02s
+Loading script took 0.10s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1808.34s
+Loading error handling took 0.03s
+Loading script took 0.15s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1823.70s
+Loading error handling took 0.03s
+Loading script took 0.15s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
 Running init code took 0.05s
@@ -103,12 +892,12 @@ Init translation took 0.05s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
 Save pyanalysis. took 0.02s
 Save bytecode. took 0.02s
 Running _start took 0.00s
-Interface start took 0.08s
+Interface start took 0.06s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
@@ -121,12 +910,52 @@ Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 254.35s
+Early init took 1890.21s
 Loading error handling took 0.03s
 Loading script took 0.14s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
-Running init code took 0.04s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.13s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.06s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.05s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Interface start took 0.14s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1899.52s
+Loading error handling took 0.03s
+Loading script took 0.12s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.05s
 Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.02s
@@ -139,7 +968,7 @@ Initial gc took 0.06s
 DPI scale factor: 1.000000
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.06s
+Init translation took 0.05s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
@@ -148,7 +977,7 @@ Prepare screens took 0.09s
 Save pyanalysis. took 0.02s
 Save bytecode. took 0.02s
 Running _start took 0.00s
-Interface start took 0.07s
+Interface start took 0.10s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
@@ -161,9 +990,89 @@ Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 267.22s
+Early init took 1914.81s
 Loading error handling took 0.03s
-Loading script took 0.11s
+Loading script took 0.13s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1924.09s
+Loading error handling took 0.03s
+Loading script took 0.14s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1942.43s
+Loading error handling took 0.02s
+Loading script took 0.13s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
 Running init code took 0.04s
@@ -188,6 +1097,321 @@ Prepare screens took 0.08s
 Save pyanalysis. took 0.02s
 Save bytecode. took 0.02s
 Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1950.22s
+Loading error handling took 0.03s
+Loading script took 0.11s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2242.13s
+Loading error handling took 0.03s
+Loading script took 0.13s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 120: 'click' is not a keyword argument or valid child of the imagebutton statement.
+    click "buttonrightpress"
+         ^
+DPI scale factor: 1.000000
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2252.90s
+Loading error handling took 0.03s
+Loading script took 0.12s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 120: 'press' is not a keyword argument or valid child of the imagebutton statement.
+    press "buttonrightpress"
+         ^
+DPI scale factor: 1.000000
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2316.22s
+Loading error handling took 0.03s
+Loading script took 0.16s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.08s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.11s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2346.55s
+Loading error handling took 0.03s
+Loading script took 0.15s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2477.57s
+Loading error handling took 0.02s
+Loading script took 0.10s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2512.53s
+Loading error handling took 0.02s
+Loading script took 0.12s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 129: 'odle' is not a keyword argument or valid child of the imagebutton statement.
+    odle "buttonidle"
+        ^
+DPI scale factor: 1.000000
+Interface start took 0.14s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2520.34s
+Loading error handling took 0.02s
+Loading script took 0.09s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 132: The text statement is not a valid child of the imagebutton statement.
+    text "Press" style "button_text"
+        ^
+DPI scale factor: 1.000000
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2520.85s
+Loading error handling took 0.02s
+Loading script took 0.10s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 132: The text statement is not a valid child of the imagebutton statement.
+    text "Press" style "button_text"
+        ^
+DPI scale factor: 1.000000
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2536.10s
+Loading error handling took 0.03s
+Loading script took 0.15s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.09s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.11s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.03s
+Running _start took 0.00s
 Interface start took 0.08s
 
 Initializing gl2 renderer:
@@ -201,18 +1425,218 @@ Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 275.47s
+Early init took 2545.45s
 Loading error handling took 0.03s
-Loading script took 0.16s
-Loading save slot metadata took 0.03s
+Loading script took 0.11s
+Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
-Running init code took 0.09s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2616.42s
+Loading error handling took 0.03s
+Loading script took 0.15s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.06s
 Loading analysis data took 0.03s
-Analyze and compile ATL took 0.01s
+Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.03s
 Index archives took 0.00s
 Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.09s
+Dump and make backups took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.15s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2645.33s
+Loading error handling took 0.03s
+Loading script took 0.12s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.09s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2653.05s
+Loading error handling took 0.02s
+Loading script took 0.11s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2681.96s
+Loading error handling took 0.04s
+Loading script took 0.17s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.11s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2710.81s
+Loading error handling took 0.03s
+Loading script took 0.13s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.07s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.08s
@@ -220,6 +1644,46 @@ DPI scale factor: 1.000000
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
 Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2729.20s
+Loading error handling took 0.03s
+Loading script took 0.11s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
@@ -241,18 +1705,218 @@ Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 369.13s
-Loading error handling took 0.04s
+Early init took 2741.46s
+Loading error handling took 0.02s
+Loading script took 0.11s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2756.76s
+Loading error handling took 0.03s
 Loading script took 0.12s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
-Running init code took 0.05s
+Running init code took 0.04s
 Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.02s
 Index archives took 0.00s
 Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
 Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.11s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2963.22s
+Loading error handling took 0.03s
+Loading script took 0.15s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+Running init code took 0.08s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3052.78s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3071.40s
+Loading error handling took 0.02s
+Loading script took 0.11s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3125.81s
+Loading error handling took 0.03s
+Loading script took 0.14s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.08s
@@ -264,9 +1928,271 @@ Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
 Save screen analysis took 0.03s
-Prepare screens took 0.09s
+Prepare screens took 0.08s
 Save pyanalysis. took 0.02s
 Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3366.69s
+Loading error handling took 0.03s
+Loading script took 0.11s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3392.56s
+Loading error handling took 0.02s
+Loading script took 0.11s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3400.41s
+Loading error handling took 0.03s
+Loading script took 0.15s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 146: 'zfixed' is not a keyword argument or valid child of the screen statement.
+    zfixed:
+          ^
+DPI scale factor: 1.000000
+Interface start took 0.19s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3406.66s
+Loading error handling took 0.03s
+Loading script took 0.15s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.08s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3420.62s
+Loading error handling took 0.03s
+Loading script took 0.13s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3502.15s
+Loading error handling took 0.03s
+Loading script took 0.17s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3517.68s
+Loading error handling took 0.04s
+Loading script took 0.16s
+Loading save slot metadata took 0.03s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Dump and make backups took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.06s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
 Running _start took 0.00s
 Interface start took 0.08s
 
@@ -281,7 +2207,7 @@ Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 688.45s
+Early init took 3527.99s
 Loading error handling took 0.02s
 Loading script took 0.08s
 Loading save slot metadata took 0.02s
@@ -303,7 +2229,7 @@ Build styles took 0.00s
 Load screen analysis took 0.04s
 Analyze screens took 0.00s
 Save screen analysis took 0.00s
-Prepare screens took 0.07s
+Prepare screens took 0.08s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
 Running _start took 0.00s
@@ -320,92 +2246,12 @@ Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 1279.85s
-Loading error handling took 0.02s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.07s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.03s
-Prepare screens took 0.08s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1319.85s
+Early init took 3589.05s
 Loading error handling took 0.04s
-Loading script took 0.17s
+Loading script took 0.16s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
-Running init code took 0.07s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.06s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.03s
-Prepare screens took 0.08s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1364.50s
-Loading error handling took 0.03s
-Loading script took 0.14s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.05s
+Running init code took 0.06s
 Loading analysis data took 0.02s
 Analyze and compile ATL took 0.01s
 Reloading save slot metadata took 0.02s
@@ -418,7 +2264,7 @@ Initial gc took 0.07s
 DPI scale factor: 1.000000
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.06s
+Init translation took 0.07s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
@@ -440,377 +2286,18 @@ Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 1430.00s
-Loading error handling took 0.03s
-Loading script took 0.13s
+Early init took 3598.42s
+Loading error handling took 0.04s
+Loading script took 0.18s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
 Running init code took 0.06s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.01s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.08s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1454.13s
-Loading error handling took 0.03s
-Loading script took 0.14s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.07s
 Loading analysis data took 0.03s
 Analyze and compile ATL took 0.01s
-Reloading save slot metadata took 0.02s
+Reloading save slot metadata took 0.03s
 Index archives took 0.00s
 Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
 Dump and make backups took 0.06s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.07s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.03s
-Prepare screens took 0.10s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.09s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-
-Full traceback:
-  File "game/script.rpy", line 271, in script
-    e "Line 1"
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ast.py", line 2560, in execute
-    Say.execute(self)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ast.py", line 615, in execute
-    renpy.exports.say(who, what, *args, **kwargs)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/exports.py", line 1494, in say
-    who(what, *args, **kwargs)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/character.py", line 1394, in __call__
-    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/character.py", line 1045, in do_display
-    display_say(who,
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/character.py", line 741, in display_say
-    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/ui.py", line 301, in interact
-    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/core.py", line 2166, in interact
-    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/core.py", line 2819, in interact_core
-    self.draw_screen(root_widget, fullscreen_video, (not fullscreen_video) or video_frame_drawn)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/core.py", line 1353, in draw_screen
-    surftree = renpy.display.render.render_screen(
-  File "render.pyx", line 486, in renpy.display.render.render_screen
-  File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/layout.py", line 900, in render
-    surf = render(child, width, height, cst, cat)
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/layout.py", line 900, in render
-    surf = render(child, width, height, cst, cat)
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/layout.py", line 900, in render
-    surf = render(child, width, height, cst, cat)
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/transform.py", line 955, in render
-    self.update_state()
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/transform.py", line 1134, in update_state
-    fr = self.execute(self, self.st, self.at)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/atl.py", line 746, in execute
-    action, arg, pause = block.execute(trans, timebase, self.atl_state, events)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/atl.py", line 991, in execute
-    action, arg, pause = stmt.execute(trans, target - start, child_state, events)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/atl.py", line 1434, in execute
-    setattr(newts, k, v)
-  File "/home/gaffy/Downloads/renpy-8.2.3-sdk/renpy/display/transform.py", line 468, in set_anchor
-    self.xanchor, self.yanchor = value
-TypeError: cannot unpack non-iterable float object
-
-Executing ATL code at game/script.rpy:52
-  File "game/script.rpy", line 271, in script
-    e "Line 1"
-TypeError: cannot unpack non-iterable float object
-Resetting cache.
-Early init took 1478.22s
-Loading error handling took 0.02s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1515.08s
-Loading error handling took 0.03s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.06s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.03s
-Prepare screens took 0.08s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1518.48s
-Loading error handling took 0.02s
-Loading script took 0.11s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.06s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1528.34s
-Loading error handling took 0.02s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.06s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.06s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1538.22s
-Loading error handling took 0.03s
-Loading script took 0.12s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 51: expecting name after dot.
-    xpos 0.17.5
-              ^
-DPI scale factor: 1.000000
-Interface start took 0.13s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1545.85s
-Loading error handling took 0.02s
-Loading script took 0.12s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.04s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.06s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1554.15s
-Loading error handling took 0.03s
-Loading script took 0.13s
-Loading save slot metadata took 0.03s
-Loading persistent took 0.00s
-Running init code took 0.06s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.08s
@@ -818,7 +2305,7 @@ DPI scale factor: 1.000000
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
 Init translation took 0.07s
-Build styles took 0.01s
+Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
 Save screen analysis took 0.03s
@@ -826,46 +2313,6 @@ Prepare screens took 0.09s
 Save pyanalysis. took 0.02s
 Save bytecode. took 0.02s
 Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1562.36s
-Loading error handling took 0.02s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
 Interface start took 0.06s
 
 Initializing gl2 renderer:
@@ -879,797 +2326,14 @@ Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 1570.59s
-Loading error handling took 0.02s
-Loading script took 0.11s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1599.64s
-Loading error handling took 0.03s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.06s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1617.36s
-Loading error handling took 0.02s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1623.96s
-Loading error handling took 0.02s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1630.64s
-Loading error handling took 0.02s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.06s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1638.88s
-Loading error handling took 0.03s
-Loading script took 0.13s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.07s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.03s
-Prepare screens took 0.08s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1694.56s
-Loading error handling took 0.03s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.03s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.06s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1709.14s
-Loading error handling took 0.02s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.03s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.03s
-Prepare screens took 0.08s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1717.38s
-Loading error handling took 0.02s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.09s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1733.56s
-Loading error handling took 0.03s
-Loading script took 0.12s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.06s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.07s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.03s
-Prepare screens took 0.08s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1738.63s
-Loading error handling took 0.03s
-Loading script took 0.13s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.07s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.03s
-Prepare screens took 0.08s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.06s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1745.29s
-Loading error handling took 0.03s
-Loading script took 0.12s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.06s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.06s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.06s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1761.24s
-Loading error handling took 0.03s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.08s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1770.98s
-Loading error handling took 0.02s
-Loading script took 0.11s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.06s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1788.74s
-Loading error handling took 0.02s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.06s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1801.65s
-Loading error handling took 0.02s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.05s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1817.86s
-Loading error handling took 0.02s
-Loading script took 0.12s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.06s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1832.39s
-Loading error handling took 0.03s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 59: expecting name after dot.
-    ypos -0.0.85
-              ^
-DPI scale factor: 1.000000
-Interface start took 0.10s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1835.61s
+Early init took 3609.25s
 Loading error handling took 0.03s
 Loading script took 0.11s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.04s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1842.30s
-Loading error handling took 0.03s
-Loading script took 0.11s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.06s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1848.94s
-Loading error handling took 0.03s
-Loading script took 0.13s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
+Running init code took 0.08s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.01s
 Reloading save slot metadata took 0.02s
 Index archives took 0.00s
 Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
@@ -1680,96 +2344,16 @@ Initial gc took 0.07s
 DPI scale factor: 1.000000
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.03s
-Prepare screens took 0.07s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.06s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1855.64s
-Loading error handling took 0.03s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.04s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.06s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.05s
+Init translation took 0.06s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
-Save screen analysis took 0.02s
+Save screen analysis took 0.03s
 Prepare screens took 0.08s
-Save pyanalysis. took 0.02s
+Save pyanalysis. took 0.00s
 Save bytecode. took 0.02s
 Running _start took 0.00s
 Interface start took 0.06s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) UHD Graphics (CML GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2'
-Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1280, 720) drawable=(1280, 720)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1860.72s
-Loading error handling took 0.03s
-Loading script took 0.15s
-Loading save slot metadata took 0.03s
-Loading persistent took 0.00s
-Running init code took 0.06s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to '/home/gaffy/.renpy/backups/Eggs':
-Dump and make backups took 0.06s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.11s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.08s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.03s
-Prepare screens took 0.10s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.07s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)

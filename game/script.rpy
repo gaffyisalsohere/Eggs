@@ -3,9 +3,16 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
+define e = Character("Robotnik")
+define r = Character("Reiker")
+define y = Character("Yanshu")
+define p = Character("Prosecutor")
 
-
+style imgbutton is text:
+    color '#000'
+    textalign 0.5
+    yalign 0.5
+    xalign 0.5
 # The game starts here.
 
 label start:
@@ -14,7 +21,7 @@ label start:
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
     
-    scene bg room
+    scene bg back
 
 
 
@@ -26,7 +33,22 @@ label start:
     $ testimonymin = 0
     $ testimonymax = 2
 
-    show yanshu test as courtleft:
+
+    
+    show bg left as bgleft:
+        crop (0, 0, 256, 720)
+        xpos 0
+        ypos 0
+
+    show bg right as bgright:
+        crop (1024, 0, 1280, 720)
+        xpos 1024
+        ypos 0    
+
+
+        
+
+    show reiker test as courtleft:
        
         xalign 0
         yalign 0.67
@@ -36,10 +58,14 @@ label start:
         xalign 0.5
         yalign 0.67
 
-    show yanshu test as courtright:
+    show prosecutor test as courtright:
 
-        xalign 1.0
+        xalign 0.95
         yalign 0.67
+
+    show eggman test as courtjudge:
+        xalign 0.5
+        ypos -0.15
 
     show fg bar as barleft:
         xalign 0.20
@@ -51,30 +77,31 @@ label start:
         xpos 0.1725
         ypos -0.05
         rotate 0
-        linear 1.0 rotate 360
-        repeat
+    #    linear 1.0 rotate 360
+    #    repeat
 
     show fg gear as geartr:
         xpos 0.7375
         ypos -0.05
         rotate 0
-        linear 1.0 rotate -360
-        repeat
+    #    linear 1.0 rotate -360
+    #    repeat
 
     show fg gear as gearbl:
         xpos 0.1725
         ypos 0.685
         rotate 0
-        linear 1.0 rotate -360
-        repeat
+    #    linear 1.0 rotate -360
+    #    repeat
 
     show fg gear as gearbr:
         xpos 0.7375
         ypos 0.685
         rotate 0
-        linear 1.0 rotate 360
-        repeat
-
+    #    linear 1.0 rotate 360
+    #   repeat
+label courtfirsthalf:
+    e "We now convene for the trial of Yanshu Driver the Mole. I trust the prosecution is ready to commence?"
 label logic:
     screen noAdvance():
         zorder 100
@@ -82,50 +109,53 @@ label logic:
  
     screen buttonLeft():
         zorder 101
-        frame:
-            xpos 0 ypos 642
-            button:
-                xsize 224
-                ysize 70
+        fixed:
+            xpos 8 ypos 656
+            imagebutton:
+                idle "buttonleftidle"
+                hover "buttonlefthover"
                 action Jump("logicleft")
-                text "<" style "button_text" 
     screen buttonRight():
         zorder 101
-        frame:
-            xpos 1048 ypos 642
-            button:
-                xsize 224
-                ysize 70
+        fixed:
+            xpos 1062 ypos 656
+            imagebutton:
+                idle "buttonrightidle"
+                hover "buttonrighthover"
                 action Jump("logicright")
-                text ">" style "button_text"
     screen buttonCallout():
         zorder 101
-        frame:
-            xpos 0 ypos 583
+        fixed:
+            xpos 8 ypos 583
             button:
-                xsize 224
-                ysize 49
-            
+                xsize 211
+                ysize 55
+                idle_background "buttonidle"
+                hover_background "buttonhover"
                 action Jump("logicpress")
-                text "Press" style "button_text"
+                text "Press" style "imgbutton"
     screen buttonPresent():
         zorder 101
-        frame:
-            xpos 1048 ypos 583
+        fixed:
+            xpos 1062 ypos 583
             button:
-                xsize 224
-                ysize 49
+                xsize 211
+                ysize 55
+                idle_background "buttonidle"
+                hover_background "buttonhover"
                 action Jump("logicpresent")
-                text "Present" style "button_text"
+                text "Present" style "imgbutton"
     screen buttonInventory():
-        zorder 101
-        frame:
-            xalign 0 ypos 0
+        fixed:
+            xpos 8
+            ypos 8
             button:
-                xsize 224
-                ysize 80
+                xsize 211
+                ysize 55
+                idle_background "buttonidle"
+                hover_background "buttonhover"
                 action Jump("logicinventory")
-                text "Inventory" style "button_text"
+                text "Inventory" style "imgbutton"
 
 label logicleft:
     $ testimonyid = testimonyid - 1
